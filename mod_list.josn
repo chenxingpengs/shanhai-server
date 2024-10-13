@@ -1,0 +1,105 @@
+{
+    "mods": [
+        {
+            "name": "BiomesOPlenty-1.20.1-18.0.0.592.jar",
+            "version": "1.20.1-18.0.0.592",
+            "description": "超多生物群系",
+            "download_url": "https://cdn.modrinth.com/data/HXF82T3G/versions/zAvWfIlG/BiomesOPlenty-1.20.1-18.0.0.592.jar"
+        },
+{
+    "mods": [
+        {
+            "name": "Joban-Client-Mod-1.20-1.2.2.jar",
+            "version": "1.20-1.2.2",
+            "description": "Joban 客户端模组",
+            "download_url": "https://cdn.modrinth.com/data/lQqKCDhg/versions/Zxex1GRe/Joban-Client-Mod-1.20-1.2.2.jar"
+        },
+ {
+    "mods": [
+        {
+            "name": "MTR-NTE-0.5.2+1.20.1",
+            "version": "0.5.2+1.20.1",
+            "description": "Nemo 的 Transit 扩展,
+            "download_url": "https://cdn.modrinth.com/data/8pXSjgW8/versions/GzGXRgXC/MTR-NTE-0.5.2%2B1.20.1.jar"
+        },
+{
+    "mods": [
+        {
+            "name": "TerraBlender-forge-1.20.1-3.0.1.7.jar",
+            "version": "1.20.1-3.0.1.7",           
+            "description": "TerraBlender 是一个地形生成模组",
+            "download_url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/HI0iCUpi/TerraBlender-forge-1.20.1-3.0.1.7.jar"
+        },
+{
+    "mods": [
+        {
+            "name": "architectury-9.2.14-forge.jar",
+            "version": "9.2.14,
+            "description": "MTR及其他mod前置模组",
+            "download_url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar"
+        },
+{
+    "mods": [
+        {
+            "name": "lradd-1.20.1-0.2.3.jar",
+            "version": "1.20.1-0.2.3",
+            "description": "Tacz绿葡萄附属包",
+            "download_url": "https://cdn.modrinth.com/data/vWxaCnwP/versions/GQ5cUgbO/lradd-1.20.1-0.2.3.jar"
+        },
+{
+    "mods": [
+        {
+            "name": "MTR-forge-1.20.1-3.2.2-hotfix-2.jar",
+            "version": "1.20.1-3.2.2-hotfix-2",
+            "description": "MTR模组",
+            "download_url": "https://cdn.modrinth.com/data/XKPAmI6u/versions/YLvg95i9/MTR-forge-1.20.1-3.2.2-hotfix-2.jar"
+        },
+{
+    "mods": [
+        {
+            "name": "create-1.20.1-0.5.1.i.jar",
+            "version": "1.20.1-0.5.1.i",
+            "description": "机械动力",
+            "download_url": "https://cdn.modrinth.com/data/LNytGWDc/versions/9df9xn5Z/create-1.20.1-0.5.1.i.jar"
+        },
+{
+    "mods": [
+        {
+            "name": "tacz-1.20.1-1.0.3-all.jar",
+            "version": "1.20.1-1.0.3-all",
+            "description": "[TaCZ]永恒枪械工坊：零",
+            "download_url": "https://cdn.modrinth.com/data/SzzJttH8/versions/Qd1RlJ8k/tacz-1.20.1-1.0.3-all.jar"
+        },
+{
+    "mods": [
+        {
+            "name": "jei-1.20.1-forge-15.20.0.104.jar",
+            "version": "1.20.1-forge-15.20.0.104",
+            "description": "JEI物品管理器",
+            "download_url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/HhYs9HUP/jei-1.20.1-forge-15.20.0.104.jar"
+        }, 
+
+{
+    "mods": [
+        {
+            "name": "cc-tweaked-1.20.1-forge-1.113.1.jar",
+            "version": "1.20.1-forge-1.113.1",
+            "description": "CC: Tweaked",
+            "download_url": "https://cdn.modrinth.com/data/gu7yAYhd/versions/a457666C/cc-tweaked-1.20.1-forge-1.113.1.jar"
+        }, 
+{
+    "mods": [
+        {
+            "name": "geckolib-forge-1.20.1-4.4.9.jar",
+            "version": "1.20.1-4.4.9",
+            "description": "前置mod",
+            "download_url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/RBA7lJaW/geckolib-forge-1.20.1-4.4.9.jar"
+        }, 
+{
+    "mods": [
+        {
+            "name": "immersive_paintings-0.6.7%2B1.20.1-forge.jar",
+            "version": "0.6.7+1.20.1-forge",
+            "description": "[IP]沉浸画框",
+            "download_url": "https://cdn.modrinth.com/data/6txNkua3/versions/dZk1qbHj/immersive_paintings-0.6.7%2B1.20.1-forge.jar"
+        }, 
